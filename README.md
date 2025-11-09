@@ -47,6 +47,7 @@ Enter city: Hyderabad
 Donor added successfully!
 
  ---
+## Output inside text file: 
 
 John Doe|B+|25|Male|9876543210|Hyderabad
 

@@ -28,6 +28,7 @@ This project demonstrates how **file handling** and **structured programming** c
   - Menu-Driven Programming  
 
 ---
+# Example Usage: 
 
 ===== BLOOD BANK MANAGEMENT SYSTEM =====
 1. Add Donor
@@ -51,7 +52,7 @@ John Doe|B+|25|Male|9876543210|Hyderabad
 
 ---
 
-MIT License
+##MIT License
 
 Copyright (c) 2025 Naga Sai Nikhila Katta
 
